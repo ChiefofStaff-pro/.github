@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiefofStaff-pro/.github/main/profile/assets/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/ChiefofStaff-pro/.github/main/profile/assets/stats.svg" width="100%" alt="9,800+ LinkedIn followers · 1,100+ LevelUP Strategies subscribers · 60+ Substack posts"/>
+  <img src="https://raw.githubusercontent.com/ChiefofStaff-pro/.github/main/profile/assets/stats.svg" width="100%" alt="9,800+ LinkedIn followers · 1,100+ LevelUP Strategies subscribers · 20+ Substack posts"/>
 </picture>
 
 <br>
