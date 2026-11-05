@@ -18,7 +18,7 @@
 </td>
 <td valign="top">
 
-**Craig Miller** — founder of ChiefofStaff.pro and Sonnet Advisors, based in Zürich. Grew up in eight countries.
+**Craig Miller**, founder of ChiefofStaff.pro and Sonnet Advisors, based in Zürich. Grew up in eight countries.
 
 M&A banker at JPMorgan in San Francisco, then Microsoft across Switzerland and Western Europe, then CFO and CCO seats. Harvard MBA, McGill engineering. Not a practising solicitor.
 
@@ -32,16 +32,16 @@ Now building **ChiefofStaff**: a voice-first system for partners at small firms 
 
 ## Start here
 
-**01 — Zero Inbox Day** `Free · Thursday 19 November 2026`  
-One working day with your Microsoft 365 or Outlook.com mail and calendar run by voice from your phone. A setup call beforehand and 14 days free afterwards. Applications close Friday 13 November. **[Apply for a seat →](https://handsfree.pro)**
+**01. Zero Inbox Day** `Free · Thursday 19 November 2026`  
+One working day with your Microsoft 365 mail and calendar run by voice from your phone. A setup call beforehand and 14 days free afterwards. Applications close Friday 13 November, or when the eight seats are taken. **[Apply for a seat →](https://handsfree.pro)**
 
-**02 — Fee Leakage Audit** `£7,950 fixed`  
+**02. Fee Leakage Audit** `£7,950 fixed`  
 Every leak between the work and the bank, measured from your practice management data: realisation by matter and partner, write-offs and who approved them, lock-up, unrecorded time and scope. You get a written report for the partnership, priced at your own rates and ranked. **[Book the audit →](https://chiefofstaff.pro/fee-leakage-audit)**
 
-**03 — ChiefofStaff** `£995 setup + £99 per person a month`  
-The hosted system. You speak from your phone, it acts in your mailbox and calendar, and it logs your tasks and time. Guided setup through **[Faststart →](https://chiefofstaff.pro/faststart)**, with the £395 diagnostic fee credited.
+**03. ChiefofStaff** `£995 setup + £99 per person a month`  
+The hosted system. You speak from your phone, it acts in your mailbox and calendar, and it logs your tasks and time. Guided setup for you and up to four colleagues through **[Faststart →](https://chiefofstaff.pro/faststart)**, open to graduates of the free Buy Back Your Time course, with the £395 diagnostic fee credited.
 
-**04 — Buy Back Diagnostic** `£395 · 90 minutes`  
+**04. Buy Back Diagnostic** `£395 · 90 minutes`  
 A paid session with me on where your time goes and what to hand over. Includes a written report and a money-back guarantee. **[Book it →](https://chiefofstaff.pro/buyback-diagnostic)**
 
 ---
@@ -71,7 +71,7 @@ A second brain that interviews you at intervals, over several sessions, until th
 ### Have it set up for you
 
 **Set up for you** `£450 fixed · one hour`  
-I install Call Write-Up with you and leave it working on your own calls.
+Once Call Write-Up ships, I install it with you and leave it working on your own calls.
 
 **Founder option** `£750 total`  
 The one-hour setup, plus product quotes, product-market-fit evidence and recurring challenges pulled together across your calls.
